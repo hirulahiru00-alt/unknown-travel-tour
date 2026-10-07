@@ -1,0 +1,6 @@
+{
+  "name": "Unknown Travels & Tours | Unknown Studio",
+  "description": "Discover beautiful places, unique experiences and unforgettable journeys in Sri Lanka with Unknown Travels & Tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
